@@ -1,0 +1,6 @@
+{
+  "name": "TechDana Coders Club Leaderboard",
+  "description": "سامانه رتبه‌بندی باشگاه برنامه‌نویسان تک دانا (TechDana Coders Club) با رصد زنده گیت‌هاب، شمارش کامیت‌ها و محاسبه تداوم روزانه فعالیت دانشجویان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
